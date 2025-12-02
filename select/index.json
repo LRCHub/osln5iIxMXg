@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "夏の幻",
+  "base_artist": "ドラマストア",
+  "createdAt": "2025-12-02T15:56:07.252575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏の幻 (secret arrange ver.)",
+      "artist": "GARNET CROW",
+      "has_synced": true,
+      "path": "select/01_夏の幻_(secret_arrange_ver.)_GARNET_CROW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏の幻",
+      "artist": "GARNET CROW",
+      "has_synced": false,
+      "path": "select/02_夏の幻_GARNET_CROW.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏の幻",
+      "artist": "GARNET CROW",
+      "has_synced": true,
+      "path": "select/03_夏の幻_GARNET_CROW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏の幻",
+      "artist": "I WiSH",
+      "has_synced": true,
+      "path": "select/04_夏の幻_I_WiSH.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏の幻(secret arrange ver.)",
+      "artist": "GARNET CROW",
+      "has_synced": true,
+      "path": "select/05_夏の幻(secret_arrange_ver.)_GARNET_CROW.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夏の幻 (instrumental)",
+      "artist": "GARNET CROW",
+      "has_synced": true,
+      "path": "select/06_夏の幻_(instrumental)_GARNET_CROW.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夏の幻",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/07_夏の幻_Omoinotake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏の幻",
+      "artist": "ドラマストア",
+      "has_synced": false,
+      "path": "select/pl_01_夏の幻_ドラマストア.txt"
+    }
+  ]
+}
